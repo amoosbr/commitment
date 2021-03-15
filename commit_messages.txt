@@ -1,4 +1,4 @@
-﻿ - Temporary commit.
+ - Temporary commit.
  ¯\_(ツ)_/¯
 "Get that shit outta my master."
 #GrammarNazi
@@ -85,7 +85,6 @@ Either Hot Shit or Total Bollocks
 Errare humanum est.
 FONDLED THE CODE
 FOR REAL.
-FUCKING XUPPERNAMEX
 Feed. You. Stuff. No time.
 Final commit, ready for tagging
 Fingers crossed!
@@ -128,7 +127,6 @@ General commit (no IDs open) - Modifications for bad implementations
 Give me a break, it's 2am.  But it works now.
 Glue. Match sticks. Paper. Build script!
 Gotta make you understand
-Gross hack because XNAMEX doesn't know how to code
 Handled a particular error.
 Here be Dragons
 Herp derp I left the debug in there and forgot to reset errors.
@@ -138,8 +136,6 @@ Herping the derp derp (silly scoping error)
 Herping the fucking derp right here and now.
 Herpy dooves.
 Hide those navs, boi!
-I CAN HAZ COMMENTZ.
-I CAN HAZ PYTHON, I CAN HAZ INDENTS
 I __ a word
 I already said I was sorry
 I am Root. We are Root.
@@ -213,7 +209,6 @@ It worked for me...
 It works on my computer
 It works!
 It'd be nice if type errors caused the compiler to issue a type error
-It's 2016; why are we using ColdFusion?!
 It's Working!
 It's getting hard to keep up with the crap I've trashed
 It's possible! you can turn a 50-line code chunk into just 3 lines. Here's how
@@ -244,7 +239,6 @@ Misc. fixes
 More ignore
 Moved something to somewhere... goodnight...
 My bad
-My boss forced me to build this feature... Pure shit.
 NOJIRA: No cry
 NSA backdoor - ignore
 Never Run This Commit As Root
@@ -279,7 +273,6 @@ Only Tom Cruise knows why.
 Out for vacation... DONT YOU DARE TO CALL ME.
 PEBKAC
 Peopleware Chapter 8: "You Never Get Anything Done around Here between 9 and 5."
-Pig
 Pipeline goes brrrrrrr
 Please enter the commit message for your changes. Lines starting with '#' will be ignored, and an empty message aborts the commit.
 Please forgive me
@@ -305,7 +298,6 @@ Revert this commit
 Revert "fuckup".
 Revert "just testing, remember to revert"
 Rush B!
-SEXY RUSSIAN CODES WAITING FOR YOU TO CALL
 SHIT ===> GOLD
 SOAP is a piece of shit
 Saint Pipeline, please give me the green light
@@ -363,7 +355,6 @@ To those I leave behind, good luck!
 Todo!!!
 Too lazy to write descriptive message
 Too tired to write descriptive message
-Transpiled mainframe.
 Trust me, I'm an engineer!... What the f*ck did just happened here?
 Trust me, it's not badly written. It's just way above your head.
 Trying to fake a conflict
@@ -377,7 +368,6 @@ Updated framework to the lattest version
 Use a real JS construct, WTF knows why this works in chromium.
 Useful text
 Version control is awful
-WHO THE FUCK CAME UP WITH MAKE?
 WTF is this.
 We Had To Use Dark Magic To Make This Work
 We know the game and we're gonna play it
@@ -405,8 +395,6 @@ Wubbalubbadubdub!
 XNAMEX broke the regex, lame
 XNAMEX made me do it
 XNAMEX rebase plx?
-XNAMEX sucks
-XUPPERNAMEX SUCKS
 XUPPERNAMEX, WE WENT OVER THIS. C++ IO SUCKS.
 XUPPERNAMEX, WE WENT OVER THIS. EXPANDTAB.
 Yep, XNAMEX was right on this one.
