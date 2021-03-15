@@ -45,7 +45,7 @@ Become a programmer, they said. It'll be fun, they said.
 Best commit ever
 Bit Bucket is down. What should I do now?
 Blaming regex.
-By works, I meant 'doesnt work'.  Works now..
+By works, I meant 'doesn't work'.  Works now..
 COMMIT ALL THE FILES!
 Can someone review this commit, please ?
 Check next commit for message.
@@ -70,7 +70,7 @@ Derp, asset redirection in dev mode
 Derp. Fix missing constant post rename
 Derpy hooves
 Do things better, faster, stronger
-Does anyone read this? I'll be at the coffee shop accross the street.
+Does anyone read this? I'll be at the coffee shop across the street.
 Does not work.
 Does this work
 Don't Ask Me, I Have No Idea Why This Works Either
@@ -152,7 +152,7 @@ I don't give a damn 'bout my reputation
 I don't know what the hell I was thinking.
 I don't know what these changes are supposed to accomplish but somebody told me to make them.
 I don't know why. Just move on.
-I dont know what I am doing
+I don't know what I am doing
 I expected something different.
 I forgot to commit... So here you go.
 I had a cup of tea and now it's fixed
@@ -290,7 +290,7 @@ Reinventing the wheel. Again.
 Removed code.
 Removed test case since code didn't pass QA
 Removed the 2gb .hprof file from git history
-Removing unecessary stuff
+Removing unnecessary stuff
 Replace all whitespaces with tabs.
 Reset error count between rows. herpderp
 Reticulating splines...
@@ -323,7 +323,7 @@ TODO: write meaningful commit message
 Test commit. Please ignore
 Testing in progress ;)
 Testing the test
-That last commit message about silly mistakes pales in comparision to this one
+That last commit message about silly mistakes pales in comparison to this one
 That's just how I roll
 The dog is eating my code
 The last time I tried this the monkey didn't survive. Let's hope it works better this time.
@@ -473,7 +473,7 @@ fix tpyo
 fixed conflicts (LOL merge -s ours; push -f)
 fixed errors in the previous commit
 fixed mistaken bug
-fixed shit that havent been fixed in last commit
+fixed shit that haven't been fixed in last commit
 fixed some minor stuff, might need some additional work.
 fixed the israeli-palestinian conflict
 fixes
@@ -591,6 +591,7 @@ totally more readable
 touched...
 tunning
 typo
+tpyo
 uhhhhhh
 unh
 unionfind is no longer being molested.
